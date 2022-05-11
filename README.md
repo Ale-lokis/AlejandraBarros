@@ -13,3 +13,4 @@
 
 ## EJECUCION
 En este repositorio se tiene  almacenado las tareas, la data y los exámenes de bioinformatica.
+uso de git hub destktop para el control de version
